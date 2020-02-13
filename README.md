@@ -1,4 +1,4 @@
-# My Awesome Project
+Minggu-01 
 
-
-Ini isi proyek
+1. [git-single](git-single.md)
+1. [rangkuman ](rangkuman-cloud-computing.md)
